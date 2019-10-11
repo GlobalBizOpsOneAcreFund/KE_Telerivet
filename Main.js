@@ -1,5 +1,5 @@
 
 global.main = function () {
-    sayText("Hey");
+    console.log("Hey");
   
 };
